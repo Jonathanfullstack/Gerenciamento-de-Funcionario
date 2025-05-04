@@ -1,0 +1,17 @@
+1 – Cadastrar novo funcionário
+Navega para a sequência de prompts onde você informa nome, idade, cargo, salário, forma e método de pagamento e, se for gerente ou desenvolvedor, dados de bônus ou horas extras.
+
+2 – Ver todos os funcionários
+Exibe uma lista numerada com nome, cargo e salário base de cada funcionário cadastrado.
+
+3 – Calcular salários e impostos
+Para cada funcionário, calcula o salário bruto (inclui bônus ou horas extras), calcula o imposto conforme o cargo e mostra o salário líquido (bruto – imposto).
+
+4 – Entregar pagamentos
+Percorre todos os funcionários e imprime, para cada um, a mensagem de confirmação de entrega do pagamento (valor líquido, forma e método).
+
+5 – Excluir funcionário
+Mostra a lista numerada, pede o número do funcionário a remover e exclui esse cadastro.
+
+6 – Sair
+Encerra o programa.
