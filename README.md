@@ -1,5 +1,4 @@
-#Sistema de Gerenciamento de Funcionários (C#)
-
+# Sistema de Gerenciamento de Funcionários (C#)
 
 1. Descrição do Projeto
 Este projeto tem como objetivo o desenvolvimento de um sistema de gerenciamento de funcionários utilizando a linguagem de programação C#, com foco nos conceitos de Programação Orientada a Objetos (POO): herança, polimorfismo, métodos virtuais e abstratos.
