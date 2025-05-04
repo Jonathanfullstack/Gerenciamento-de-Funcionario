@@ -1,0 +1,14 @@
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\bin\Debug\net8.0\GerenciamenteFuncionarios.exe
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\bin\Debug\net8.0\GerenciamenteFuncionarios.deps.json
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\bin\Debug\net8.0\GerenciamenteFuncionarios.runtimeconfig.json
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\bin\Debug\net8.0\GerenciamenteFuncionarios.dll
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\bin\Debug\net8.0\GerenciamenteFuncionarios.pdb
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\obj\Debug\net8.0\GerenciamenteFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\obj\Debug\net8.0\GerenciamenteFuncionarios.AssemblyInfoInputs.cache
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\obj\Debug\net8.0\GerenciamenteFuncionarios.AssemblyInfo.cs
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\obj\Debug\net8.0\GerenciamenteFuncionarios.csproj.CoreCompileInputs.cache
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\obj\Debug\net8.0\GerenciamenteFuncionarios.dll
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\obj\Debug\net8.0\refint\GerenciamenteFuncionarios.dll
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\obj\Debug\net8.0\GerenciamenteFuncionarios.pdb
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\obj\Debug\net8.0\GerenciamenteFuncionarios.genruntimeconfig.cache
+C:\Users\balij\source\repos\GerenciamenteFuncionarios\obj\Debug\net8.0\ref\GerenciamenteFuncionarios.dll
